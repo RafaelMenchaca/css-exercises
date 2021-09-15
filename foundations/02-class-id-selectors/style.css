@@ -1,0 +1,19 @@
+.parrafo {
+    background-color: rgb(255, 139, 160);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.mejora{
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: rgb(143, 227, 136);
+    font-size: 24px ;
+    font-weight: bold;
+}
